@@ -1,2 +1,2 @@
 # pythonic_examples
-Python way to solve problems
+Pythonin way to solve problems
